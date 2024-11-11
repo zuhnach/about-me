@@ -1,4 +1,4 @@
-# ***zuhnach*** - The man and the ~~steemboat~~ pytonist
+# ***zuhnach*** - The man and the ~~steamboat~~ pytonist
 
 * Name: *Dmitry*
 * Age: *35*
